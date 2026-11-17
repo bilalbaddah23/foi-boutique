@@ -1,0 +1,444 @@
+{
+  "brand": "FOI Boutique",
+  "handle": "foiboutique.lb",
+  "instagram": "https://www.instagram.com/foiboutique.lb/",
+  "contactMode": "whatsapp",
+  "phone": "96181719708",
+  "displayPhone": "+961 81 719 708",
+  "publicPhoneObserved": "96181719708",
+  "hours": "Confirm current opening hours with the boutique",
+  "followersObserved": null,
+  "followersDisplay": "23.2K",
+  "latestVisiblePost": "2026-11-17",
+  "researchDate": "2026-11-17",
+  "bioLinks": [
+    "https://wa.me/96181719708",
+    "https://www.tiktok.com/@foiboutique.lb"
+  ],
+  "branches": [],
+  "about": "FOI Boutique shares modest fashion, dresses, coordinated sets and knit layers from Beirut, with WhatsApp enquiries and delivery across Lebanon listed in its public biography.",
+  "heroImage": "C:\\Projects\\prospect-research\\nov17-fashion-build2\\foi-boutique\\assets\\native-01.jpg",
+  "storyImage": "C:\\Projects\\prospect-research\\nov17-fashion-build2\\foi-boutique\\assets\\foi-05.jpg",
+  "galleryImages": [
+    "C:\\Projects\\prospect-research\\nov17-fashion-build2\\foi-boutique\\assets\\native-01.jpg",
+    "C:\\Projects\\prospect-research\\nov17-fashion-build2\\foi-boutique\\assets\\native-02.jpg",
+    "C:\\Projects\\prospect-research\\nov17-fashion-build2\\foi-boutique\\assets\\native-03.jpg",
+    "C:\\Projects\\prospect-research\\nov17-fashion-build2\\foi-boutique\\assets\\foi-01.jpg",
+    "C:\\Projects\\prospect-research\\nov17-fashion-build2\\foi-boutique\\assets\\foi-02.jpg",
+    "C:\\Projects\\prospect-research\\nov17-fashion-build2\\foi-boutique\\assets\\foi-03.jpg",
+    "C:\\Projects\\prospect-research\\nov17-fashion-build2\\foi-boutique\\assets\\foi-04.jpg",
+    "C:\\Projects\\prospect-research\\nov17-fashion-build2\\foi-boutique\\assets\\foi-05.jpg",
+    "C:\\Projects\\prospect-research\\nov17-fashion-build2\\foi-boutique\\assets\\foi-06.jpg",
+    "C:\\Projects\\prospect-research\\nov17-fashion-build2\\foi-boutique\\assets\\foi-08.jpg",
+    "C:\\Projects\\prospect-research\\nov17-fashion-build2\\foi-boutique\\assets\\foi-09.jpg",
+    "C:\\Projects\\prospect-research\\nov17-fashion-build2\\foi-boutique\\assets\\foi-10.jpg",
+    "C:\\Projects\\prospect-research\\nov17-fashion-build2\\foi-boutique\\assets\\foi-11.jpg"
+  ],
+  "products": [
+    {
+      "id": "side-stripe-dress",
+      "name": "Side-Stripe Dress Edit",
+      "category": "Dresses",
+      "description": "A belted long dress with a contrasting pale side stripe, photographed in plum, black and brown colourways. Confirm the exact included garment, measurements, colours, price and current availability with the boutique. Styling accessories are not assumed to be included.",
+      "images": [
+        "C:\\Projects\\prospect-research\\nov17-fashion-build2\\foi-boutique\\assets\\native-01.jpg",
+        "C:\\Projects\\prospect-research\\nov17-fashion-build2\\foi-boutique\\assets\\native-02.jpg",
+        "C:\\Projects\\prospect-research\\nov17-fashion-build2\\foi-boutique\\assets\\native-03.jpg",
+        "C:\\Projects\\prospect-research\\nov17-fashion-build2\\foi-boutique\\assets\\foi-03.jpg"
+      ],
+      "sourcePost": "https://www.instagram.com/foiboutique.lb/p/DfF6GVKDh3D/",
+      "price": null,
+      "sizes": [
+        "Confirm with boutique"
+      ]
+    },
+    {
+      "id": "light-peplum-set",
+      "name": "Light Peplum Set",
+      "category": "Coordinated looks",
+      "description": "A light-coloured high-neck long-sleeve top gathered at the waist, paired with matching wide-leg trousers. Confirm the exact included garment, measurements, colours, price and current availability with the boutique. Styling accessories are not assumed to be included.",
+      "images": [
+        "C:\\Projects\\prospect-research\\nov17-fashion-build2\\foi-boutique\\assets\\foi-01.jpg"
+      ],
+      "sourcePost": "https://www.instagram.com/foiboutique.lb/reel/Df2P1z_q87t/",
+      "price": null,
+      "sizes": [
+        "Confirm with boutique"
+      ]
+    },
+    {
+      "id": "colour-block-zip-set",
+      "name": "Colour-Block Zip Set",
+      "category": "Coordinated looks",
+      "description": "A burgundy and pale-green zip-front top with striped sleeves, styled with burgundy trousers. Confirm the exact included garment, measurements, colours, price and current availability with the boutique. Styling accessories are not assumed to be included.",
+      "images": [
+        "C:\\Projects\\prospect-research\\nov17-fashion-build2\\foi-boutique\\assets\\foi-06.jpg",
+        "C:\\Projects\\prospect-research\\nov17-fashion-build2\\foi-boutique\\assets\\foi-02.jpg"
+      ],
+      "sourcePost": "https://www.instagram.com/foiboutique.lb/p/DfF6_aVDiCM/",
+      "price": null,
+      "sizes": [
+        "Confirm with boutique"
+      ]
+    },
+    {
+      "id": "grey-poncho-look",
+      "name": "Grey Poncho Look",
+      "category": "Knit layers",
+      "description": "A grey high-neck poncho-style top styled with a dark lower layer. Confirm the exact included garment, measurements, colours, price and current availability with the boutique. Styling accessories are not assumed to be included.",
+      "images": [
+        "C:\\Projects\\prospect-research\\nov17-fashion-build2\\foi-boutique\\assets\\foi-05.jpg"
+      ],
+      "sourcePost": "https://www.instagram.com/foiboutique.lb/p/DfF7W0ODkIR/",
+      "price": null,
+      "sizes": [
+        "Confirm with boutique"
+      ]
+    },
+    {
+      "id": "navy-floral-outer-layer",
+      "name": "Navy Floral Outer Layer",
+      "category": "Outer layers",
+      "description": "A navy drawstring outer layer with light floral embellishment is shown in the boutique’s public collage. Confirm the exact included garment, measurements, colours, price and current availability with the boutique. Styling accessories are not assumed to be included.",
+      "images": [
+        "C:\\Projects\\prospect-research\\nov17-fashion-build2\\foi-boutique\\assets\\foi-04.jpg"
+      ],
+      "sourcePost": "https://www.instagram.com/foiboutique.lb/p/DfF7hJgOaL0/",
+      "price": null,
+      "sizes": [
+        "Confirm with boutique"
+      ]
+    },
+    {
+      "id": "dark-plum-dress",
+      "name": "Dark Plum Dress",
+      "category": "Dresses",
+      "description": "A dark plum long-sleeve dress with a softly gathered waist, photographed with a bouquet. Confirm the exact included garment, measurements, colours, price and current availability with the boutique. Styling accessories are not assumed to be included.",
+      "images": [
+        "C:\\Projects\\prospect-research\\nov17-fashion-build2\\foi-boutique\\assets\\foi-08.jpg"
+      ],
+      "sourcePost": "https://www.instagram.com/foiboutique.lb/p/DfF5tvPDlix/",
+      "price": null,
+      "sizes": [
+        "Confirm with boutique"
+      ]
+    },
+    {
+      "id": "burgundy-cardigan-set",
+      "name": "Burgundy Cardigan Look",
+      "category": "Knit layers",
+      "description": "A burgundy cardigan and trouser look shown in a public brand styling board. Other colour swatches are part of the source artwork and require confirmation. Confirm the exact included garment, measurements, colours, price and current availability with the boutique. Styling accessories are not assumed to be included.",
+      "images": [
+        "C:\\Projects\\prospect-research\\nov17-fashion-build2\\foi-boutique\\assets\\foi-09.jpg"
+      ],
+      "sourcePost": "https://www.instagram.com/foiboutique.lb/p/DfF4-QBurfz/",
+      "price": null,
+      "sizes": [
+        "Confirm with boutique"
+      ]
+    },
+    {
+      "id": "plum-peplum-set",
+      "name": "Plum Peplum Set",
+      "category": "Coordinated looks",
+      "description": "A plum longline peplum top with gathered waist and matching wide-leg trousers, shown in a public brand styling board. Confirm the exact included garment, measurements, colours, price and current availability with the boutique. Styling accessories are not assumed to be included.",
+      "images": [
+        "C:\\Projects\\prospect-research\\nov17-fashion-build2\\foi-boutique\\assets\\foi-10.jpg"
+      ],
+      "sourcePost": "https://www.instagram.com/foiboutique.lb/p/DfF4pKYuE8q/",
+      "price": null,
+      "sizes": [
+        "Confirm with boutique"
+      ]
+    },
+    {
+      "id": "blue-pattern-skirt-look",
+      "name": "Blue Pattern & Skirt Look",
+      "category": "Knit layers",
+      "description": "A blue and grey patterned top styled with a light full-length skirt in the business’s public styling collage. Confirm the exact included garment, measurements, colours, price and current availability with the boutique. Styling accessories are not assumed to be included.",
+      "images": [
+        "C:\\Projects\\prospect-research\\nov17-fashion-build2\\foi-boutique\\assets\\foi-11.jpg"
+      ],
+      "sourcePost": "https://www.instagram.com/foiboutique.lb/p/DfF4ZwPjjAT/",
+      "price": null,
+      "sizes": [
+        "Confirm with boutique"
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "path": "C:\\Projects\\prospect-research\\nov17-fashion-build2\\foi-boutique\\assets\\native-01.jpg",
+      "sourceUrl": "https://instagram.fbey15-1.fna.fbcdn.net/v/t51.82787-15/870969834_18077791361742713_2700237188038357179_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=101&_nc_map=urlgen_bucketless&ig_cache_key=NDAxODg3MzExMzM2ODkzOTYwNQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuODUzLnNkci5yZWd1bGFyX3Bob3RvLkMzIn0%3D&_nc_ohc=V_M202lG-KkQ7kNvwEQc6W7&_nc_oc=AdqP86KlIOOHaaqfIeS7sZ_GtCo9X5bzHCYOkr_QJZmvVGgTvww5AtVpNioW0sQW4pk&_nc_zt=23&_nc_ht=instagram.fbey15-1.fna&_nc_gid=JMdLgOOOgvzmgFk4zPM9WA&_nc_ss=7ba8c&_nc_ct=RQosPBUIFQIlBAAAAA&oh=00_AQQDhpj-Ry1B_a0x_xJlJ6af8rVdvJSYW712_5k77Al2kg&oe=6B026D5F",
+      "sourcePost": "https://www.instagram.com/foiboutique.lb/p/DfF6GVKDh3D/",
+      "width": 853,
+      "height": 1137,
+      "sha256": "6b8f3757cbeb5f8da5791058f5cdcf99339c653fedf227fdf8dd63a836cb17e0",
+      "sourceImageType": "Native public photo still",
+      "observedDate": "2026-11-17"
+    },
+    {
+      "path": "C:\\Projects\\prospect-research\\nov17-fashion-build2\\foi-boutique\\assets\\native-02.jpg",
+      "sourceUrl": "https://instagram.fbey14-1.fna.fbcdn.net/v/t51.82787-15/871683552_18077791352742713_1192817864495163671_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=102&_nc_map=urlgen_bucketless&ig_cache_key=NDAxODg3MzExMzg4ODk1ODc0Ng%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuODUzLnNkci5yZWd1bGFyX3Bob3RvLkMzIn0%3D&_nc_ohc=EPwBf6nAbiMQ7kNvwFqXcw3&_nc_oc=AdpmAUtX1yzl_UvseyfCXj-O0oOFXs-4qbf3pwP3aynH7a4yNHDliAYqb6zfaPTXjDg&_nc_zt=23&_nc_ht=instagram.fbey14-1.fna&_nc_gid=JMdLgOOOgvzmgFk4zPM9WA&_nc_ss=7ba8c&_nc_ct=RQosPBUIFQIlBAAAAA&oh=00_AQSN9mNH4f9mJTPB7EPOQmiwuS18u_4vnB7oOEINF0PDnw&oe=6B029065",
+      "sourcePost": "https://www.instagram.com/foiboutique.lb/p/DfF6GVKDh3D/",
+      "width": 853,
+      "height": 1137,
+      "sha256": "43f72ba92188d895548820cddbcd106184ad0cf6c8ebcd8d805083810b1e0eab",
+      "sourceImageType": "Native public photo still",
+      "observedDate": "2026-11-17"
+    },
+    {
+      "path": "C:\\Projects\\prospect-research\\nov17-fashion-build2\\foi-boutique\\assets\\native-03.jpg",
+      "sourceUrl": "https://instagram.fbey14-1.fna.fbcdn.net/v/t51.82787-15/875794051_18077791370742713_4973900226417957590_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=106&_nc_map=urlgen_bucketless&ig_cache_key=NDAxODg3MzExMzk5ODI1NTYwNg%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuODUzLnNkci5yZWd1bGFyX3Bob3RvLkMzIn0%3D&_nc_ohc=hajrLct34-YQ7kNvwF87XZB&_nc_oc=Adr3YNYQFd47bzZgLvkoFVN3o5nLpqtOJmFaZ07woOQQSgLo-gPXvNT-ZvXvODnwCKk&_nc_zt=23&_nc_ht=instagram.fbey14-1.fna&_nc_gid=JMdLgOOOgvzmgFk4zPM9WA&_nc_ss=7ba8c&_nc_ct=RQosPBUIFQIlBAAAAA&oh=00_AQQWDs1Sxjt2oSo8isHoC1am-9h5Pc4nYKIPON5KiVfq3g&oe=6B0268B0",
+      "sourcePost": "https://www.instagram.com/foiboutique.lb/p/DfF6GVKDh3D/",
+      "width": 853,
+      "height": 1137,
+      "sha256": "2fcae9417236ec1294e29715683edb7902e37f18494e5f96b3fe4b0a15147f10",
+      "sourceImageType": "Native public photo still",
+      "observedDate": "2026-11-17"
+    },
+    {
+      "path": "C:\\Projects\\prospect-research\\nov17-fashion-build2\\foi-boutique\\assets\\foi-01.jpg",
+      "sourceUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/906078874_1607396844409108_5255717126060959833_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=110&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=UBOQlcTX5hAQ7kNvwFBDHBt&_nc_oc=Adr6itPH8ipYEJJ6TyMabWVAWH4qRquyassp_CyO9bR3oRPn7lYyvc0QJxLCkcdikcc&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=CEF3zfz-qNdLimPT0efgtw&_nc_ss=7aa8c&_nc_ct=RQosPBUKFQwAAAA&oh=00_AQQImT7EZyEIx4SmIRE2UEK89ujIO_YyNGP1HUNrwGKUWw&oe=6B028671",
+      "sourcePost": "https://www.instagram.com/foiboutique.lb/reel/Df2P1z_q87t/",
+      "width": 361,
+      "height": 640,
+      "sha256": "e5a8ddf3c72e81878c417b4f48d46a9d8a05132a5a6f54beceaa94ed462d1ec5",
+      "sourceImageType": "Native public Reel-cover still; no video frame extraction",
+      "observedDate": "2026-11-17"
+    },
+    {
+      "path": "C:\\Projects\\prospect-research\\nov17-fashion-build2\\foi-boutique\\assets\\foi-02.jpg",
+      "sourceUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/877713065_1655497919401819_6722195112492646997_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=106&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=DsVWYVkq-dQQ7kNvwFCp422&_nc_oc=AdrFtZGR12sezP3dNdiKX5pWgmqDlwJkpWLHvWo9Wg7Js_L3TTsCwHcQisEQxaTBbzw&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=CEF3zfz-qNdLimPT0efgtw&_nc_ss=7aa8c&_nc_ct=RQosPBUKFQQAAAA&oh=00_AQQWHylkvkvtChMIiznbj3ME1jf_yBwiz7ASFV7-2odfUQ&oe=6B0283E6",
+      "sourcePost": "https://www.instagram.com/foiboutique.lb/reel/DfP7sdJOzr9/",
+      "width": 361,
+      "height": 640,
+      "sha256": "357a7a10093bec5354f4af20ff67483ad1411723676aa18ac11b6cb33efa44c3",
+      "sourceImageType": "Native public Reel-cover still; no video frame extraction",
+      "observedDate": "2026-11-17"
+    },
+    {
+      "path": "C:\\Projects\\prospect-research\\nov17-fashion-build2\\foi-boutique\\assets\\foi-03.jpg",
+      "sourceUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/872830061_18077793803742713_6712367029014085180_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=107&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=7H_29TpllZkQ7kNvwHaxvHj&_nc_oc=AdqXifW085L4wvUVFVN56-Duv7SawvXf1YNfuBOciUmPd5NaKf2rr_GYbVH-9_FoA6M&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=CEF3zfz-qNdLimPT0efgtw&_nc_ss=7aa8c&_nc_ct=RQosPBUKFQQAAAA&oh=00_AQRLoVI15dnPfHRjqy618eCIxRSdY3ZKqWs_qL0KvwTpEA&oe=6B027EE4",
+      "sourcePost": "https://www.instagram.com/foiboutique.lb/reel/DfF7xyuuiZB/",
+      "width": 360,
+      "height": 640,
+      "sha256": "bf06ed3b435379b70cbfcd1822c3017bfd68d2674e2878d7663717707bdbe25d",
+      "sourceImageType": "Native public Reel-cover still; no video frame extraction",
+      "observedDate": "2026-11-17"
+    },
+    {
+      "path": "C:\\Projects\\prospect-research\\nov17-fashion-build2\\foi-boutique\\assets\\foi-04.jpg",
+      "sourceUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/877117576_18077793671742713_5598952872712598671_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=100&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=-_XnGG8d5TQQ7kNvwEBjW7-&_nc_oc=AdoOFUbyNitCyyuRjDvfDNia7gz8-ogTJ3s0OjwxWG2p5u3Pi_G9mOXErZ_rT35Qx9Q&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=CEF3zfz-qNdLimPT0efgtw&_nc_ss=7aa8c&_nc_ct=RQosPBUKFQIAAAA&oh=00_AQT2UzNTonLBfc_JvSeQjNxPvniDOoHx9rEl7l4vZCXpbg&oe=6B027730",
+      "sourcePost": "https://www.instagram.com/foiboutique.lb/p/DfF7hJgOaL0/",
+      "width": 482,
+      "height": 640,
+      "sha256": "2397cc3f83538cbecad392c079945537f33c3c96757fc38147acc7ce7b16ff23",
+      "sourceImageType": "Native public photo still",
+      "observedDate": "2026-11-17"
+    },
+    {
+      "path": "C:\\Projects\\prospect-research\\nov17-fashion-build2\\foi-boutique\\assets\\foi-05.jpg",
+      "sourceUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/879745884_18077793425742713_1041748899784908990_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=102&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=6kUJgmkwq28Q7kNvwFGx1VG&_nc_oc=AdroUWuWX4JhLCHlwfV5kKmn7EVnvn8hWAT4q857IqWy5C7zML2nLP5oV9ehykyUuK4&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=CEF3zfz-qNdLimPT0efgtw&_nc_ss=7aa8c&_nc_ct=RQosPBUKFQIAAAA&oh=00_AQSMDoZGQKlifGyH2HtykmDssNLpRWow3mfwVlOgj4Pe6Q&oe=6B02784D",
+      "sourcePost": "https://www.instagram.com/foiboutique.lb/p/DfF7W0ODkIR/",
+      "width": 480,
+      "height": 640,
+      "sha256": "c8b2713dbb25d5afaa512140bae603653f73147be2777fd8022856a02d47abc9",
+      "sourceImageType": "Native public photo still",
+      "observedDate": "2026-11-17"
+    },
+    {
+      "path": "C:\\Projects\\prospect-research\\nov17-fashion-build2\\foi-boutique\\assets\\foi-06.jpg",
+      "sourceUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/870664148_18077792921742713_7392112382022244515_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=110&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=-vbUw2xAwlcQ7kNvwE1F9CF&_nc_oc=AdppE6iON3IJeO7vnt_SGMFSxiqogWJb9z9KPGMVJN2dW1CwaLmGp_JyMPia6JOAmFk&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=CEF3zfz-qNdLimPT0efgtw&_nc_ss=7aa8c&_nc_ct=RQosPBUKFQIAAAA&oh=00_AQS36JIFk173t2U-KMdPCBjaGAOABXwW62U53JzzCp0SkA&oe=6B027DF9",
+      "sourcePost": "https://www.instagram.com/foiboutique.lb/p/DfF6_aVDiCM/",
+      "width": 480,
+      "height": 640,
+      "sha256": "c952957b42f224f1a5a12d16f3547f33a5485848b0ee8f82eea6ac79361a52ed",
+      "sourceImageType": "Native public photo still",
+      "observedDate": "2026-11-17"
+    },
+    {
+      "path": "C:\\Projects\\prospect-research\\nov17-fashion-build2\\foi-boutique\\assets\\foi-08.jpg",
+      "sourceUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/878860720_18077790926742713_2810478700662133718_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=101&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=C9iFkhuwoEMQ7kNvwH3vJrf&_nc_oc=AdpwJzTXYx0h_ioEOJ6mcWVusNt4l7ddhEm3b3-teONBCWcXdHiZ9NCajN_4_bxbnyg&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=CEF3zfz-qNdLimPT0efgtw&_nc_ss=7aa8c&_nc_ct=RQosPBUKFQIAAAA&oh=00_AQTSopYU-ALDEDpoj3zUAvz3hv5zBrMAqe-Ey80n9CcLXA&oe=6B027302",
+      "sourcePost": "https://www.instagram.com/foiboutique.lb/p/DfF5tvPDlix/",
+      "width": 480,
+      "height": 640,
+      "sha256": "93421bc73e4d681f230e73d458f6f11ab7bc1edf6d0c55341e6cfd7f60733218",
+      "sourceImageType": "Native public photo still",
+      "observedDate": "2026-11-17"
+    },
+    {
+      "path": "C:\\Projects\\prospect-research\\nov17-fashion-build2\\foi-boutique\\assets\\foi-09.jpg",
+      "sourceUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/870344443_18077790269742713_5025493954479468999_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=106&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=KgIoLVe0uskQ7kNvwGUnyeQ&_nc_oc=AdrwtzkdWFSeT_MJTv818zlAdux7szatLza-AY8xmho-pqKOfOZNJMrCAdQ0TSB-_u0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=CEF3zfz-qNdLimPT0efgtw&_nc_ss=7aa8c&_nc_ct=RQosPBUKFQIAAAA&oh=00_AQQyCsAfa0ul27X7IiV_Y5D2oX218FudkyIJiaMv8omNnA&oe=6B029193",
+      "sourcePost": "https://www.instagram.com/foiboutique.lb/p/DfF4-QBurfz/",
+      "width": 509,
+      "height": 640,
+      "sha256": "a6a1a2e96995e4626d91c0ac5f6200513ed0cb4c4d0f0365c7495a3efa3a4cf2",
+      "sourceImageType": "Native public photo still",
+      "observedDate": "2026-11-17"
+    },
+    {
+      "path": "C:\\Projects\\prospect-research\\nov17-fashion-build2\\foi-boutique\\assets\\foi-10.jpg",
+      "sourceUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/877679690_18077789726742713_8736680940587344986_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=106&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=PVxECCt-btkQ7kNvwFhXpso&_nc_oc=Ado_JoBxpERKHopciFBwhv_b0b1HC7IYbVo_vEV6N--Pq1ypbPI9l2kyD4SJye3g0Kg&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=CEF3zfz-qNdLimPT0efgtw&_nc_ss=7aa8c&_nc_ct=RQosPBUKFQIAAAA&oh=00_AQTuHln_FhqmHYV8WB_ZXgJdNqhAbPNdzxIsz3vAmiR4Eg&oe=6B0260C5",
+      "sourcePost": "https://www.instagram.com/foiboutique.lb/p/DfF4pKYuE8q/",
+      "width": 482,
+      "height": 640,
+      "sha256": "7090ffeb4221bbf1d5c5ca5a112525a28ff132e5bec90b67134e82219c2f5dc1",
+      "sourceImageType": "Native public photo still",
+      "observedDate": "2026-11-17"
+    },
+    {
+      "path": "C:\\Projects\\prospect-research\\nov17-fashion-build2\\foi-boutique\\assets\\foi-11.jpg",
+      "sourceUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/877253985_18077789090742713_5057478144867457002_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=104&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=NRys1Bs75koQ7kNvwGT4nW_&_nc_oc=AdpkA7m-XVGroV6u7KapognyZmA_2BXruu96_Y3f0Wz62s0rjXYr0k_rs35nS2uMOhY&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=CEF3zfz-qNdLimPT0efgtw&_nc_ss=7aa8c&_nc_ct=RQosPBUKFQIAAAA&oh=00_AQRNztI8dYgNIIgKXFB0ogU9yWtr_gPiyOoFQleNsqDEPQ&oe=6B02635C",
+      "sourcePost": "https://www.instagram.com/foiboutique.lb/p/DfF4ZwPjjAT/",
+      "width": 480,
+      "height": 640,
+      "sha256": "0b062fd73462b921490a49f23387ad3a187744e9c84cade4788c10a2cb941539",
+      "sourceImageType": "Native public photo still",
+      "observedDate": "2026-11-17"
+    }
+  ],
+  "imageProvenance": [
+    {
+      "path": "C:\\Projects\\prospect-research\\nov17-fashion-build2\\foi-boutique\\assets\\native-01.jpg",
+      "sourceUrl": "https://instagram.fbey15-1.fna.fbcdn.net/v/t51.82787-15/870969834_18077791361742713_2700237188038357179_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=101&_nc_map=urlgen_bucketless&ig_cache_key=NDAxODg3MzExMzM2ODkzOTYwNQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuODUzLnNkci5yZWd1bGFyX3Bob3RvLkMzIn0%3D&_nc_ohc=V_M202lG-KkQ7kNvwEQc6W7&_nc_oc=AdqP86KlIOOHaaqfIeS7sZ_GtCo9X5bzHCYOkr_QJZmvVGgTvww5AtVpNioW0sQW4pk&_nc_zt=23&_nc_ht=instagram.fbey15-1.fna&_nc_gid=JMdLgOOOgvzmgFk4zPM9WA&_nc_ss=7ba8c&_nc_ct=RQosPBUIFQIlBAAAAA&oh=00_AQQDhpj-Ry1B_a0x_xJlJ6af8rVdvJSYW712_5k77Al2kg&oe=6B026D5F",
+      "sourcePost": "https://www.instagram.com/foiboutique.lb/p/DfF6GVKDh3D/",
+      "width": 853,
+      "height": 1137,
+      "sha256": "6b8f3757cbeb5f8da5791058f5cdcf99339c653fedf227fdf8dd63a836cb17e0",
+      "sourceImageType": "Native public photo still",
+      "observedDate": "2026-11-17"
+    },
+    {
+      "path": "C:\\Projects\\prospect-research\\nov17-fashion-build2\\foi-boutique\\assets\\native-02.jpg",
+      "sourceUrl": "https://instagram.fbey14-1.fna.fbcdn.net/v/t51.82787-15/871683552_18077791352742713_1192817864495163671_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=102&_nc_map=urlgen_bucketless&ig_cache_key=NDAxODg3MzExMzg4ODk1ODc0Ng%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuODUzLnNkci5yZWd1bGFyX3Bob3RvLkMzIn0%3D&_nc_ohc=EPwBf6nAbiMQ7kNvwFqXcw3&_nc_oc=AdpmAUtX1yzl_UvseyfCXj-O0oOFXs-4qbf3pwP3aynH7a4yNHDliAYqb6zfaPTXjDg&_nc_zt=23&_nc_ht=instagram.fbey14-1.fna&_nc_gid=JMdLgOOOgvzmgFk4zPM9WA&_nc_ss=7ba8c&_nc_ct=RQosPBUIFQIlBAAAAA&oh=00_AQSN9mNH4f9mJTPB7EPOQmiwuS18u_4vnB7oOEINF0PDnw&oe=6B029065",
+      "sourcePost": "https://www.instagram.com/foiboutique.lb/p/DfF6GVKDh3D/",
+      "width": 853,
+      "height": 1137,
+      "sha256": "43f72ba92188d895548820cddbcd106184ad0cf6c8ebcd8d805083810b1e0eab",
+      "sourceImageType": "Native public photo still",
+      "observedDate": "2026-11-17"
+    },
+    {
+      "path": "C:\\Projects\\prospect-research\\nov17-fashion-build2\\foi-boutique\\assets\\native-03.jpg",
+      "sourceUrl": "https://instagram.fbey14-1.fna.fbcdn.net/v/t51.82787-15/875794051_18077791370742713_4973900226417957590_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=106&_nc_map=urlgen_bucketless&ig_cache_key=NDAxODg3MzExMzk5ODI1NTYwNg%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuODUzLnNkci5yZWd1bGFyX3Bob3RvLkMzIn0%3D&_nc_ohc=hajrLct34-YQ7kNvwF87XZB&_nc_oc=Adr3YNYQFd47bzZgLvkoFVN3o5nLpqtOJmFaZ07woOQQSgLo-gPXvNT-ZvXvODnwCKk&_nc_zt=23&_nc_ht=instagram.fbey14-1.fna&_nc_gid=JMdLgOOOgvzmgFk4zPM9WA&_nc_ss=7ba8c&_nc_ct=RQosPBUIFQIlBAAAAA&oh=00_AQQWDs1Sxjt2oSo8isHoC1am-9h5Pc4nYKIPON5KiVfq3g&oe=6B0268B0",
+      "sourcePost": "https://www.instagram.com/foiboutique.lb/p/DfF6GVKDh3D/",
+      "width": 853,
+      "height": 1137,
+      "sha256": "2fcae9417236ec1294e29715683edb7902e37f18494e5f96b3fe4b0a15147f10",
+      "sourceImageType": "Native public photo still",
+      "observedDate": "2026-11-17"
+    },
+    {
+      "path": "C:\\Projects\\prospect-research\\nov17-fashion-build2\\foi-boutique\\assets\\foi-01.jpg",
+      "sourceUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/906078874_1607396844409108_5255717126060959833_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=110&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=UBOQlcTX5hAQ7kNvwFBDHBt&_nc_oc=Adr6itPH8ipYEJJ6TyMabWVAWH4qRquyassp_CyO9bR3oRPn7lYyvc0QJxLCkcdikcc&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=CEF3zfz-qNdLimPT0efgtw&_nc_ss=7aa8c&_nc_ct=RQosPBUKFQwAAAA&oh=00_AQQImT7EZyEIx4SmIRE2UEK89ujIO_YyNGP1HUNrwGKUWw&oe=6B028671",
+      "sourcePost": "https://www.instagram.com/foiboutique.lb/reel/Df2P1z_q87t/",
+      "width": 361,
+      "height": 640,
+      "sha256": "e5a8ddf3c72e81878c417b4f48d46a9d8a05132a5a6f54beceaa94ed462d1ec5",
+      "sourceImageType": "Native public Reel-cover still; no video frame extraction",
+      "observedDate": "2026-11-17"
+    },
+    {
+      "path": "C:\\Projects\\prospect-research\\nov17-fashion-build2\\foi-boutique\\assets\\foi-02.jpg",
+      "sourceUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/877713065_1655497919401819_6722195112492646997_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=106&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=DsVWYVkq-dQQ7kNvwFCp422&_nc_oc=AdrFtZGR12sezP3dNdiKX5pWgmqDlwJkpWLHvWo9Wg7Js_L3TTsCwHcQisEQxaTBbzw&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=CEF3zfz-qNdLimPT0efgtw&_nc_ss=7aa8c&_nc_ct=RQosPBUKFQQAAAA&oh=00_AQQWHylkvkvtChMIiznbj3ME1jf_yBwiz7ASFV7-2odfUQ&oe=6B0283E6",
+      "sourcePost": "https://www.instagram.com/foiboutique.lb/reel/DfP7sdJOzr9/",
+      "width": 361,
+      "height": 640,
+      "sha256": "357a7a10093bec5354f4af20ff67483ad1411723676aa18ac11b6cb33efa44c3",
+      "sourceImageType": "Native public Reel-cover still; no video frame extraction",
+      "observedDate": "2026-11-17"
+    },
+    {
+      "path": "C:\\Projects\\prospect-research\\nov17-fashion-build2\\foi-boutique\\assets\\foi-03.jpg",
+      "sourceUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/872830061_18077793803742713_6712367029014085180_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=107&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=7H_29TpllZkQ7kNvwHaxvHj&_nc_oc=AdqXifW085L4wvUVFVN56-Duv7SawvXf1YNfuBOciUmPd5NaKf2rr_GYbVH-9_FoA6M&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=CEF3zfz-qNdLimPT0efgtw&_nc_ss=7aa8c&_nc_ct=RQosPBUKFQQAAAA&oh=00_AQRLoVI15dnPfHRjqy618eCIxRSdY3ZKqWs_qL0KvwTpEA&oe=6B027EE4",
+      "sourcePost": "https://www.instagram.com/foiboutique.lb/reel/DfF7xyuuiZB/",
+      "width": 360,
+      "height": 640,
+      "sha256": "bf06ed3b435379b70cbfcd1822c3017bfd68d2674e2878d7663717707bdbe25d",
+      "sourceImageType": "Native public Reel-cover still; no video frame extraction",
+      "observedDate": "2026-11-17"
+    },
+    {
+      "path": "C:\\Projects\\prospect-research\\nov17-fashion-build2\\foi-boutique\\assets\\foi-04.jpg",
+      "sourceUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/877117576_18077793671742713_5598952872712598671_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=100&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=-_XnGG8d5TQQ7kNvwEBjW7-&_nc_oc=AdoOFUbyNitCyyuRjDvfDNia7gz8-ogTJ3s0OjwxWG2p5u3Pi_G9mOXErZ_rT35Qx9Q&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=CEF3zfz-qNdLimPT0efgtw&_nc_ss=7aa8c&_nc_ct=RQosPBUKFQIAAAA&oh=00_AQT2UzNTonLBfc_JvSeQjNxPvniDOoHx9rEl7l4vZCXpbg&oe=6B027730",
+      "sourcePost": "https://www.instagram.com/foiboutique.lb/p/DfF7hJgOaL0/",
+      "width": 482,
+      "height": 640,
+      "sha256": "2397cc3f83538cbecad392c079945537f33c3c96757fc38147acc7ce7b16ff23",
+      "sourceImageType": "Native public photo still",
+      "observedDate": "2026-11-17"
+    },
+    {
+      "path": "C:\\Projects\\prospect-research\\nov17-fashion-build2\\foi-boutique\\assets\\foi-05.jpg",
+      "sourceUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/879745884_18077793425742713_1041748899784908990_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=102&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=6kUJgmkwq28Q7kNvwFGx1VG&_nc_oc=AdroUWuWX4JhLCHlwfV5kKmn7EVnvn8hWAT4q857IqWy5C7zML2nLP5oV9ehykyUuK4&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=CEF3zfz-qNdLimPT0efgtw&_nc_ss=7aa8c&_nc_ct=RQosPBUKFQIAAAA&oh=00_AQSMDoZGQKlifGyH2HtykmDssNLpRWow3mfwVlOgj4Pe6Q&oe=6B02784D",
+      "sourcePost": "https://www.instagram.com/foiboutique.lb/p/DfF7W0ODkIR/",
+      "width": 480,
+      "height": 640,
+      "sha256": "c8b2713dbb25d5afaa512140bae603653f73147be2777fd8022856a02d47abc9",
+      "sourceImageType": "Native public photo still",
+      "observedDate": "2026-11-17"
+    },
+    {
+      "path": "C:\\Projects\\prospect-research\\nov17-fashion-build2\\foi-boutique\\assets\\foi-06.jpg",
+      "sourceUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/870664148_18077792921742713_7392112382022244515_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=110&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=-vbUw2xAwlcQ7kNvwE1F9CF&_nc_oc=AdppE6iON3IJeO7vnt_SGMFSxiqogWJb9z9KPGMVJN2dW1CwaLmGp_JyMPia6JOAmFk&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=CEF3zfz-qNdLimPT0efgtw&_nc_ss=7aa8c&_nc_ct=RQosPBUKFQIAAAA&oh=00_AQS36JIFk173t2U-KMdPCBjaGAOABXwW62U53JzzCp0SkA&oe=6B027DF9",
+      "sourcePost": "https://www.instagram.com/foiboutique.lb/p/DfF6_aVDiCM/",
+      "width": 480,
+      "height": 640,
+      "sha256": "c952957b42f224f1a5a12d16f3547f33a5485848b0ee8f82eea6ac79361a52ed",
+      "sourceImageType": "Native public photo still",
+      "observedDate": "2026-11-17"
+    },
+    {
+      "path": "C:\\Projects\\prospect-research\\nov17-fashion-build2\\foi-boutique\\assets\\foi-08.jpg",
+      "sourceUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/878860720_18077790926742713_2810478700662133718_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=101&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=C9iFkhuwoEMQ7kNvwH3vJrf&_nc_oc=AdpwJzTXYx0h_ioEOJ6mcWVusNt4l7ddhEm3b3-teONBCWcXdHiZ9NCajN_4_bxbnyg&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=CEF3zfz-qNdLimPT0efgtw&_nc_ss=7aa8c&_nc_ct=RQosPBUKFQIAAAA&oh=00_AQTSopYU-ALDEDpoj3zUAvz3hv5zBrMAqe-Ey80n9CcLXA&oe=6B027302",
+      "sourcePost": "https://www.instagram.com/foiboutique.lb/p/DfF5tvPDlix/",
+      "width": 480,
+      "height": 640,
+      "sha256": "93421bc73e4d681f230e73d458f6f11ab7bc1edf6d0c55341e6cfd7f60733218",
+      "sourceImageType": "Native public photo still",
+      "observedDate": "2026-11-17"
+    },
+    {
+      "path": "C:\\Projects\\prospect-research\\nov17-fashion-build2\\foi-boutique\\assets\\foi-09.jpg",
+      "sourceUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/870344443_18077790269742713_5025493954479468999_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=106&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=KgIoLVe0uskQ7kNvwGUnyeQ&_nc_oc=AdrwtzkdWFSeT_MJTv818zlAdux7szatLza-AY8xmho-pqKOfOZNJMrCAdQ0TSB-_u0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=CEF3zfz-qNdLimPT0efgtw&_nc_ss=7aa8c&_nc_ct=RQosPBUKFQIAAAA&oh=00_AQQyCsAfa0ul27X7IiV_Y5D2oX218FudkyIJiaMv8omNnA&oe=6B029193",
+      "sourcePost": "https://www.instagram.com/foiboutique.lb/p/DfF4-QBurfz/",
+      "width": 509,
+      "height": 640,
+      "sha256": "a6a1a2e96995e4626d91c0ac5f6200513ed0cb4c4d0f0365c7495a3efa3a4cf2",
+      "sourceImageType": "Native public photo still",
+      "observedDate": "2026-11-17"
+    },
+    {
+      "path": "C:\\Projects\\prospect-research\\nov17-fashion-build2\\foi-boutique\\assets\\foi-10.jpg",
+      "sourceUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/877679690_18077789726742713_8736680940587344986_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=106&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=PVxECCt-btkQ7kNvwFhXpso&_nc_oc=Ado_JoBxpERKHopciFBwhv_b0b1HC7IYbVo_vEV6N--Pq1ypbPI9l2kyD4SJye3g0Kg&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=CEF3zfz-qNdLimPT0efgtw&_nc_ss=7aa8c&_nc_ct=RQosPBUKFQIAAAA&oh=00_AQTuHln_FhqmHYV8WB_ZXgJdNqhAbPNdzxIsz3vAmiR4Eg&oe=6B0260C5",
+      "sourcePost": "https://www.instagram.com/foiboutique.lb/p/DfF4pKYuE8q/",
+      "width": 482,
+      "height": 640,
+      "sha256": "7090ffeb4221bbf1d5c5ca5a112525a28ff132e5bec90b67134e82219c2f5dc1",
+      "sourceImageType": "Native public photo still",
+      "observedDate": "2026-11-17"
+    },
+    {
+      "path": "C:\\Projects\\prospect-research\\nov17-fashion-build2\\foi-boutique\\assets\\foi-11.jpg",
+      "sourceUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/877253985_18077789090742713_5057478144867457002_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=104&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=NRys1Bs75koQ7kNvwGT4nW_&_nc_oc=AdpkA7m-XVGroV6u7KapognyZmA_2BXruu96_Y3f0Wz62s0rjXYr0k_rs35nS2uMOhY&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=CEF3zfz-qNdLimPT0efgtw&_nc_ss=7aa8c&_nc_ct=RQosPBUKFQIAAAA&oh=00_AQRNztI8dYgNIIgKXFB0ogU9yWtr_gPiyOoFQleNsqDEPQ&oe=6B02635C",
+      "sourcePost": "https://www.instagram.com/foiboutique.lb/p/DfF4ZwPjjAT/",
+      "width": 480,
+      "height": 640,
+      "sha256": "0b062fd73462b921490a49f23387ad3a187744e9c84cade4788c10a2cb941539",
+      "sourceImageType": "Native public photo still",
+      "observedDate": "2026-11-17"
+    }
+  ],
+  "activityEvidence": "Own public profile grid contains recent November2026 posts; latest visible date2026-11-17. Pinned older posts were not mistaken for current activity.",
+  "websiteCheck": {
+    "result": "No matching official website found in checked public profile links and bounded handle/name searches; an unlisted site cannot be ruled out.",
+    "checkedDate": "2026-11-17",
+    "evidence": "Expanded bio links are WhatsApp and TikTok; handle search showed social results and no matching official shop. Mixed related-post snippets are not attributed to this business.",
+    "sources": [
+      "https://www.instagram.com/foiboutique.lb/"
+    ]
+  },
+  "contactEvidence": "Official expanded biography links https://wa.me/96181719708, matching the listed phone.",
+  "imageNotes": "13 selected stills:10 profile images (3nativeReelcovers and7nativephoto/styling-board images) plus3native853×1137dress-carousel photos. Excluded lower-resolution duplicate of the native hero and unrelated decorative interior poster. Some source images are designed collages or styling boards; materials, stock and exact size claims are not independently verified. No video downloads/frame extraction, image generation or upscaling. Native colourway photographs are grouped as one dress edit."
+}

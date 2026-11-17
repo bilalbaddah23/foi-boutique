@@ -1,0 +1,186 @@
+{
+  "brand": "FOI Boutique",
+  "contactMode": "whatsapp",
+  "phone": "96181719708",
+  "displayPhone": "+961 81 719 708",
+  "instagram": "https://www.instagram.com/foiboutique.lb/",
+  "hours": "Confirm current opening hours with the boutique",
+  "hero": "/images/collection-01.jpg",
+  "story": "/images/collection-08.jpg",
+  "galleryImages": [
+    "/images/collection-01.jpg",
+    "/images/collection-02.jpg",
+    "/images/collection-03.jpg",
+    "/images/collection-05.jpg",
+    "/images/collection-07.jpg",
+    "/images/collection-04.jpg",
+    "/images/collection-09.jpg",
+    "/images/collection-08.jpg",
+    "/images/collection-06.jpg",
+    "/images/collection-10.jpg",
+    "/images/collection-11.jpg",
+    "/images/collection-12.jpg",
+    "/images/collection-13.jpg"
+  ],
+  "products": [
+    {
+      "id": "side-stripe-dress",
+      "name": "Side-Stripe Dress Edit",
+      "collection": "Dresses",
+      "audience": "The edit",
+      "family": "",
+      "description": "A belted long dress with a contrasting pale side stripe, photographed in plum, black and brown colourways. Confirm the exact included garment, measurements, colours, price and current availability with the boutique. Styling accessories are not assumed to be included.",
+      "notes": [],
+      "price": null,
+      "sizes": [
+        "Confirm with boutique"
+      ],
+      "images": [
+        "/images/collection-01.jpg",
+        "/images/collection-02.jpg",
+        "/images/collection-03.jpg",
+        "/images/collection-04.jpg"
+      ],
+      "source": "https://www.instagram.com/foiboutique.lb/p/DfF6GVKDh3D/"
+    },
+    {
+      "id": "light-peplum-set",
+      "name": "Light Peplum Set",
+      "collection": "Coordinated looks",
+      "audience": "The edit",
+      "family": "",
+      "description": "A light-coloured high-neck long-sleeve top gathered at the waist, paired with matching wide-leg trousers. Confirm the exact included garment, measurements, colours, price and current availability with the boutique. Styling accessories are not assumed to be included.",
+      "notes": [],
+      "price": null,
+      "sizes": [
+        "Confirm with boutique"
+      ],
+      "images": [
+        "/images/collection-05.jpg"
+      ],
+      "source": "https://www.instagram.com/foiboutique.lb/reel/Df2P1z_q87t/"
+    },
+    {
+      "id": "colour-block-zip-set",
+      "name": "Colour-Block Zip Set",
+      "collection": "Coordinated looks",
+      "audience": "The edit",
+      "family": "",
+      "description": "A burgundy and pale-green zip-front top with striped sleeves, styled with burgundy trousers. Confirm the exact included garment, measurements, colours, price and current availability with the boutique. Styling accessories are not assumed to be included.",
+      "notes": [],
+      "price": null,
+      "sizes": [
+        "Confirm with boutique"
+      ],
+      "images": [
+        "/images/collection-06.jpg",
+        "/images/collection-07.jpg"
+      ],
+      "source": "https://www.instagram.com/foiboutique.lb/p/DfF6_aVDiCM/"
+    },
+    {
+      "id": "grey-poncho-look",
+      "name": "Grey Poncho Look",
+      "collection": "Knit layers",
+      "audience": "The edit",
+      "family": "",
+      "description": "A grey high-neck poncho-style top styled with a dark lower layer. Confirm the exact included garment, measurements, colours, price and current availability with the boutique. Styling accessories are not assumed to be included.",
+      "notes": [],
+      "price": null,
+      "sizes": [
+        "Confirm with boutique"
+      ],
+      "images": [
+        "/images/collection-08.jpg"
+      ],
+      "source": "https://www.instagram.com/foiboutique.lb/p/DfF7W0ODkIR/"
+    },
+    {
+      "id": "navy-floral-outer-layer",
+      "name": "Navy Floral Outer Layer",
+      "collection": "Outer layers",
+      "audience": "The edit",
+      "family": "",
+      "description": "A navy drawstring outer layer with light floral embellishment is shown in the boutique’s public collage. Confirm the exact included garment, measurements, colours, price and current availability with the boutique. Styling accessories are not assumed to be included.",
+      "notes": [],
+      "price": null,
+      "sizes": [
+        "Confirm with boutique"
+      ],
+      "images": [
+        "/images/collection-09.jpg"
+      ],
+      "source": "https://www.instagram.com/foiboutique.lb/p/DfF7hJgOaL0/"
+    },
+    {
+      "id": "dark-plum-dress",
+      "name": "Dark Plum Dress",
+      "collection": "Dresses",
+      "audience": "The edit",
+      "family": "",
+      "description": "A dark plum long-sleeve dress with a softly gathered waist, photographed with a bouquet. Confirm the exact included garment, measurements, colours, price and current availability with the boutique. Styling accessories are not assumed to be included.",
+      "notes": [],
+      "price": null,
+      "sizes": [
+        "Confirm with boutique"
+      ],
+      "images": [
+        "/images/collection-10.jpg"
+      ],
+      "source": "https://www.instagram.com/foiboutique.lb/p/DfF5tvPDlix/"
+    },
+    {
+      "id": "burgundy-cardigan-set",
+      "name": "Burgundy Cardigan Look",
+      "collection": "Knit layers",
+      "audience": "The edit",
+      "family": "",
+      "description": "A burgundy cardigan and trouser look shown in a public brand styling board. Other colour swatches are part of the source artwork and require confirmation. Confirm the exact included garment, measurements, colours, price and current availability with the boutique. Styling accessories are not assumed to be included.",
+      "notes": [],
+      "price": null,
+      "sizes": [
+        "Confirm with boutique"
+      ],
+      "images": [
+        "/images/collection-11.jpg"
+      ],
+      "source": "https://www.instagram.com/foiboutique.lb/p/DfF4-QBurfz/"
+    },
+    {
+      "id": "plum-peplum-set",
+      "name": "Plum Peplum Set",
+      "collection": "Coordinated looks",
+      "audience": "The edit",
+      "family": "",
+      "description": "A plum longline peplum top with gathered waist and matching wide-leg trousers, shown in a public brand styling board. Confirm the exact included garment, measurements, colours, price and current availability with the boutique. Styling accessories are not assumed to be included.",
+      "notes": [],
+      "price": null,
+      "sizes": [
+        "Confirm with boutique"
+      ],
+      "images": [
+        "/images/collection-12.jpg"
+      ],
+      "source": "https://www.instagram.com/foiboutique.lb/p/DfF4pKYuE8q/"
+    },
+    {
+      "id": "blue-pattern-skirt-look",
+      "name": "Blue Pattern & Skirt Look",
+      "collection": "Knit layers",
+      "audience": "The edit",
+      "family": "",
+      "description": "A blue and grey patterned top styled with a light full-length skirt in the business’s public styling collage. Confirm the exact included garment, measurements, colours, price and current availability with the boutique. Styling accessories are not assumed to be included.",
+      "notes": [],
+      "price": null,
+      "sizes": [
+        "Confirm with boutique"
+      ],
+      "images": [
+        "/images/collection-13.jpg"
+      ],
+      "source": "https://www.instagram.com/foiboutique.lb/p/DfF4ZwPjjAT/"
+    }
+  ],
+  "services": [],
+  "branches": []
+}

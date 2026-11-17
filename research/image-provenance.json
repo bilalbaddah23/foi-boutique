@@ -1,0 +1,171 @@
+[
+  {
+    "file": "/images/collection-01.jpg",
+    "original": "C:\\Projects\\prospect-research\\nov17-fashion-build2\\foi-boutique\\assets\\native-01.jpg",
+    "sha256": "6b8f3757cbeb5f8da5791058f5cdcf99339c653fedf227fdf8dd63a836cb17e0",
+    "originalDimensions": [
+      853,
+      1137
+    ],
+    "webDimensions": [
+      853,
+      1137
+    ]
+  },
+  {
+    "file": "/images/collection-02.jpg",
+    "original": "C:\\Projects\\prospect-research\\nov17-fashion-build2\\foi-boutique\\assets\\native-02.jpg",
+    "sha256": "43f72ba92188d895548820cddbcd106184ad0cf6c8ebcd8d805083810b1e0eab",
+    "originalDimensions": [
+      853,
+      1137
+    ],
+    "webDimensions": [
+      853,
+      1137
+    ]
+  },
+  {
+    "file": "/images/collection-03.jpg",
+    "original": "C:\\Projects\\prospect-research\\nov17-fashion-build2\\foi-boutique\\assets\\native-03.jpg",
+    "sha256": "2fcae9417236ec1294e29715683edb7902e37f18494e5f96b3fe4b0a15147f10",
+    "originalDimensions": [
+      853,
+      1137
+    ],
+    "webDimensions": [
+      853,
+      1137
+    ]
+  },
+  {
+    "file": "/images/collection-04.jpg",
+    "original": "C:\\Projects\\prospect-research\\nov17-fashion-build2\\foi-boutique\\assets\\foi-03.jpg",
+    "sha256": "bf06ed3b435379b70cbfcd1822c3017bfd68d2674e2878d7663717707bdbe25d",
+    "originalDimensions": [
+      360,
+      640
+    ],
+    "webDimensions": [
+      360,
+      640
+    ]
+  },
+  {
+    "file": "/images/collection-05.jpg",
+    "original": "C:\\Projects\\prospect-research\\nov17-fashion-build2\\foi-boutique\\assets\\foi-01.jpg",
+    "sha256": "e5a8ddf3c72e81878c417b4f48d46a9d8a05132a5a6f54beceaa94ed462d1ec5",
+    "originalDimensions": [
+      361,
+      640
+    ],
+    "webDimensions": [
+      361,
+      640
+    ]
+  },
+  {
+    "file": "/images/collection-06.jpg",
+    "original": "C:\\Projects\\prospect-research\\nov17-fashion-build2\\foi-boutique\\assets\\foi-06.jpg",
+    "sha256": "c952957b42f224f1a5a12d16f3547f33a5485848b0ee8f82eea6ac79361a52ed",
+    "originalDimensions": [
+      480,
+      640
+    ],
+    "webDimensions": [
+      480,
+      640
+    ]
+  },
+  {
+    "file": "/images/collection-07.jpg",
+    "original": "C:\\Projects\\prospect-research\\nov17-fashion-build2\\foi-boutique\\assets\\foi-02.jpg",
+    "sha256": "357a7a10093bec5354f4af20ff67483ad1411723676aa18ac11b6cb33efa44c3",
+    "originalDimensions": [
+      361,
+      640
+    ],
+    "webDimensions": [
+      361,
+      640
+    ]
+  },
+  {
+    "file": "/images/collection-08.jpg",
+    "original": "C:\\Projects\\prospect-research\\nov17-fashion-build2\\foi-boutique\\assets\\foi-05.jpg",
+    "sha256": "c8b2713dbb25d5afaa512140bae603653f73147be2777fd8022856a02d47abc9",
+    "originalDimensions": [
+      480,
+      640
+    ],
+    "webDimensions": [
+      480,
+      640
+    ]
+  },
+  {
+    "file": "/images/collection-09.jpg",
+    "original": "C:\\Projects\\prospect-research\\nov17-fashion-build2\\foi-boutique\\assets\\foi-04.jpg",
+    "sha256": "2397cc3f83538cbecad392c079945537f33c3c96757fc38147acc7ce7b16ff23",
+    "originalDimensions": [
+      482,
+      640
+    ],
+    "webDimensions": [
+      482,
+      640
+    ]
+  },
+  {
+    "file": "/images/collection-10.jpg",
+    "original": "C:\\Projects\\prospect-research\\nov17-fashion-build2\\foi-boutique\\assets\\foi-08.jpg",
+    "sha256": "93421bc73e4d681f230e73d458f6f11ab7bc1edf6d0c55341e6cfd7f60733218",
+    "originalDimensions": [
+      480,
+      640
+    ],
+    "webDimensions": [
+      480,
+      640
+    ]
+  },
+  {
+    "file": "/images/collection-11.jpg",
+    "original": "C:\\Projects\\prospect-research\\nov17-fashion-build2\\foi-boutique\\assets\\foi-09.jpg",
+    "sha256": "a6a1a2e96995e4626d91c0ac5f6200513ed0cb4c4d0f0365c7495a3efa3a4cf2",
+    "originalDimensions": [
+      509,
+      640
+    ],
+    "webDimensions": [
+      509,
+      640
+    ]
+  },
+  {
+    "file": "/images/collection-12.jpg",
+    "original": "C:\\Projects\\prospect-research\\nov17-fashion-build2\\foi-boutique\\assets\\foi-10.jpg",
+    "sha256": "7090ffeb4221bbf1d5c5ca5a112525a28ff132e5bec90b67134e82219c2f5dc1",
+    "originalDimensions": [
+      482,
+      640
+    ],
+    "webDimensions": [
+      482,
+      640
+    ]
+  },
+  {
+    "file": "/images/collection-13.jpg",
+    "original": "C:\\Projects\\prospect-research\\nov17-fashion-build2\\foi-boutique\\assets\\foi-11.jpg",
+    "sha256": "0b062fd73462b921490a49f23387ad3a187744e9c84cade4788c10a2cb941539",
+    "originalDimensions": [
+      480,
+      640
+    ],
+    "webDimensions": [
+      480,
+      640
+    ]
+  }
+]
